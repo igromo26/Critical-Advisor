@@ -34,6 +34,7 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - `CLAUDE.md` definiert auch die operative Regel, dass alle Datei-Aenderungen sofort committed und gepusht werden.
 - Der Ordner `Consulting/` wurde als Arbeitsbereich fuer Consulting-Themen angelegt.
 - `Consulting/AI-Consulting-Market-Perspective.md` dokumentiert eine erste kritische Perspektive auf den Unternehmensberatungsmarkt im AI-Zeitalter und Marios moegliche Positionierung.
+- `Consulting/AI-Delivery-System.md` dokumentiert eine erste Arbeitsfassung fuer ein AI-first Delivery-System und die Positionierungsfrage Marketing-Wedge vs. breites Revenue Impact Advisory.
 
 ## Consulting-Kontext Mario
 
@@ -51,6 +52,9 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - Wertvoller werden Problemdefinition, Urteilskraft, Revenue- und Operating-Model-Design, Adoption, Governance und die Uebersetzung zwischen Strategie, Daten, Tools, Team und Umsatzwirkung.
 - Marios staerkste moegliche Rolle liegt wahrscheinlich nicht bei "Fractional CMO" oder "RevOps-Techie", sondern bei AI-first Revenue Impact Advisory bzw. Architektur von wirksamen Revenue-Systemen fuer B2B SaaS- und AI-Unternehmen.
 - "AI-first Consultancy" ist als Label allein zu schwach. Es braucht ein eigenes Delivery-System, klare Projektformate, wiederholbare Artefakte, messbare Outcomes und eine bewusste Nein-Liste.
+- Arbeitsthese zur Positionierung: Nach aussen mit einem scharfen Marketing-to-Revenue- bzw. Revenue-Marketing-Wedge starten, intern aber den gesamten GTM-Stack mitdenken und bei Bedarf Sales, RevOps, Customer Success, Customer Service und Product Strategy einbeziehen.
+- Ein AI-first Delivery-System sollte Diagnose, Impact-Modell, Revenue Operating Blueprint, Roadmap/Sprint-System, AI Workflow Implementation sowie Enablement/Handover enthalten.
+- Marios aktueller Ablauf aus Workshops, Analyse, Impact-Analyse, Roadmap und woechentlicher Accountability ist grundsaetzlich sinnvoll, muss aber staerker produktisiert werden: klare Phasen, Entry-/Exit-Kriterien, Artefakte, Nein-Liste und messbare Outcomes.
 
 ## Offene Fragen
 
