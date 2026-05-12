@@ -24,14 +24,15 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - GitHub-Repository: `https://github.com/igromo26/Critical-Advisor.git`
 - Lokale Git-Identitaet: `Mario Maier <mario.maier@igromo.com>`
 - Keine GPG- oder SSH-Signatur erforderlich.
-- Nach jeder Aenderung an einer Markdown-Datei in diesem Repository soll direkt ein Git-Commit erstellt und zu `origin` gepusht werden, damit ein Live-Backup auf GitHub besteht.
+- Nach jeder Aenderung an irgendeiner Datei in diesem Repository soll direkt ein Git-Commit erstellt und zu `origin` gepusht werden, damit ein Live-Backup auf GitHub besteht. Das gilt nicht nur fuer Markdown, sondern auch fuer HTML, Code, Assets und sonstige Projektdateien.
 
 ## Aktuelle Arbeitsergebnisse
 
 - `SOUL.md` definiert die Persoenlichkeit und Arbeitsweise des Critical Advisor.
 - `MEMORY.md` dokumentiert die wesentlichen Erkenntnisse und Entscheidungen aus dem Sparring.
 - `CLAUDE.md` definiert die Startup-Regel: Vor jeder neuen Session oder substanziellen Arbeit sollen `SOUL.md` und `MEMORY.md` gelesen werden.
-- `CLAUDE.md` definiert auch die operative Regel, dass Markdown-Aenderungen sofort committed und gepusht werden.
+- `CLAUDE.md` definiert auch die operative Regel, dass alle Datei-Aenderungen sofort committed und gepusht werden.
+- Der Ordner `Consulting/` wurde als Arbeitsbereich fuer Consulting-Themen angelegt.
 
 ## Offene Fragen
 

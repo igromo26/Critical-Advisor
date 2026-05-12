@@ -14,4 +14,4 @@ When new relevant insights, decisions, open questions, changed assumptions, or w
 
 If voice-input phrasing appears ambiguous, mistranscribed, or internally inconsistent, ask for clarification before storing it as project memory or building important conclusions on it.
 
-After every change to a Markdown file in this repository, create a Git commit and push it to `origin` immediately. This keeps `SOUL.md`, `MEMORY.md`, `CLAUDE.md`, and related project documentation backed up live on GitHub.
+After every change to any file in this repository, create a Git commit and push it to `origin` immediately. This keeps the full project, including Markdown files, HTML files, code, assets, and future work products, backed up live on GitHub.
