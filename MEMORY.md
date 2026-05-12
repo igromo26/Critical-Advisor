@@ -35,6 +35,7 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - Der Ordner `Consulting/` wurde als Arbeitsbereich fuer Consulting-Themen angelegt.
 - `Consulting/AI-Consulting-Market-Perspective.md` dokumentiert eine erste kritische Perspektive auf den Unternehmensberatungsmarkt im AI-Zeitalter und Marios moegliche Positionierung.
 - `Consulting/AI-Delivery-System.md` dokumentiert eine erste Arbeitsfassung fuer ein AI-first Delivery-System und die Positionierungsfrage Marketing-Wedge vs. breites Revenue Impact Advisory.
+- `Consulting/Revenue-Marketing-Advisory-Delivery-Boundaries.md` dokumentiert die Delivery-Grenzen fuer Revenue Marketing Advisory: Advisor vs. Strategist, Capability Bridge, Co-Build statt Dauerbetrieb und Impact Contracts fuer Revenue-Hebel.
 
 ## Consulting-Kontext Mario
 
@@ -55,6 +56,11 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - Arbeitsthese zur Positionierung: Nach aussen mit einem scharfen Marketing-to-Revenue- bzw. Revenue-Marketing-Wedge starten, intern aber den gesamten GTM-Stack mitdenken und bei Bedarf Sales, RevOps, Customer Success, Customer Service und Product Strategy einbeziehen.
 - Ein AI-first Delivery-System sollte Diagnose, Impact-Modell, Revenue Operating Blueprint, Roadmap/Sprint-System, AI Workflow Implementation sowie Enablement/Handover enthalten.
 - Marios aktueller Ablauf aus Workshops, Analyse, Impact-Analyse, Roadmap und woechentlicher Accountability ist grundsaetzlich sinnvoll, muss aber staerker produktisiert werden: klare Phasen, Entry-/Exit-Kriterien, Artefakte, Nein-Liste und messbare Outcomes.
+- Mario entscheidet sich als Arbeitsthese fuer `Revenue Marketing Advisory` als spitzere Positionierung.
+- `Advisor` wirkt passender als `Strategist`, weil es Urteilskraft, Sparring und Entscheidungsnaehe ausdrueckt, waehrend `Strategist` schneller nach Konzeptdistanz klingt.
+- Die zentrale Delivery-Grenze: Mario darf Advisor, Architect, Co-Builder, Enabler und Quality Gate sein, aber nicht dauerhafter Operator fuer Marketing- und Tool-Aufgaben.
+- Bei Kunden mit Technologie- und AI-Skill-Gaps braucht es einen expliziten Capability Bridge: Skill Gap Assessment, Workflow Prototype, Guided Build Sessions, Owner Certification, Quality Gates und klare Handover-Kriterien.
+- Jeder priorisierte Revenue-Hebel braucht einen Impact Contract mit Problem, Hypothese, Zielmetrik, Baseline, Zielwert, Zeithorizont, Owner, Risiken und Stop-Kriterium.
 
 ## Offene Fragen
 
