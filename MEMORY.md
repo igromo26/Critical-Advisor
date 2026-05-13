@@ -38,6 +38,7 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - `Consulting/Revenue-Marketing-Advisory-Delivery-Boundaries.md` dokumentiert die Delivery-Grenzen fuer Revenue Marketing Advisory: Advisor vs. Strategist, Capability Bridge, Co-Build statt Dauerbetrieb und Impact Contracts fuer Revenue-Hebel.
 - `Consulting/Internal-AI-Enhanced-Delivery-System.md` dokumentiert Marios internes AI-unterstuetztes Delivery-System mit Weekly Delivery Loop, Accountability Call, Advisory Call, Kundencockpit und internen AI-Agenten/Prompts.
 - `Consulting/Client-Data-Architecture-for-AI-Delivery.md` dokumentiert eine technische Datenarchitektur fuer kundenspezifische KPI-Definitionen, Historie, CRM-Relationen, Tokenkosten und AI-ready Weekly Briefs.
+- `Consulting/Weekly-Preparation-Time-Model.md` dokumentiert ein Zeitmodell fuer die woechentliche Kundenvorbereitung und bewertet, wann 45 Minuten Vorbereitung pro Kunde realistisch sind.
 
 ## Consulting-Kontext Mario
 
@@ -70,6 +71,9 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - Sheets koennen kurzfristig als Staging- und Review-Layer dienen, sollten aber nicht das langfristige System of Record sein. Fuer Historie, Relationen und Kostenkontrolle ist mittelfristig ein kleines Warehouse wie BigQuery oder alternativ Postgres sinnvoller.
 - HubSpot-/CRM-Relationen sollten ueber Association Tables modelliert werden, nicht nur als flache Exporte, damit Deals, Contacts, Companies und Labels korrekt interpretiert werden.
 - Tokenkosten werden reduziert, indem AI nur KPI Definitions, Weekly Snapshots, Impact Contracts, Roadmap-Kontext und gespeicherte Briefings liest, nicht komplette Rohdatenexporte.
+- Ziel fuer laufende Mandate: Zwei 45-minuetige Calls pro Kunde pro Woche plus maximal 45 Minuten Vorbereitung. Arbeitsthese: Das ist erst ab einem stabilen Running System realistisch, typischerweise ab Woche 8 bis 12, nicht in Onboarding und Diagnose.
+- Zeitmodell: Onboarding/Diagnose ca. 3 bis 6 Stunden pro Woche, Stabilisierung ca. 90 bis 150 Minuten, Running System ca. 30 bis 45 Minuten Vorbereitung pro Woche.
+- Wenn die Vorbereitung dauerhaft mehr als 45 Minuten braucht, ist das ein Signal fuer ein Problem im Datenmodell, in KPI Definitions, Kundendisziplin, Scope, Weekly Briefing oder in Marios Rollenabgrenzung.
 
 ## Offene Fragen
 
