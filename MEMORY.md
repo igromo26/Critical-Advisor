@@ -37,6 +37,7 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - `Consulting/AI-Delivery-System.md` dokumentiert eine erste Arbeitsfassung fuer ein AI-first Delivery-System und die Positionierungsfrage Marketing-Wedge vs. breites Revenue Impact Advisory.
 - `Consulting/Revenue-Marketing-Advisory-Delivery-Boundaries.md` dokumentiert die Delivery-Grenzen fuer Revenue Marketing Advisory: Advisor vs. Strategist, Capability Bridge, Co-Build statt Dauerbetrieb und Impact Contracts fuer Revenue-Hebel.
 - `Consulting/Internal-AI-Enhanced-Delivery-System.md` dokumentiert Marios internes AI-unterstuetztes Delivery-System mit Weekly Delivery Loop, Accountability Call, Advisory Call, Kundencockpit und internen AI-Agenten/Prompts.
+- `Consulting/Client-Data-Architecture-for-AI-Delivery.md` dokumentiert eine technische Datenarchitektur fuer kundenspezifische KPI-Definitionen, Historie, CRM-Relationen, Tokenkosten und AI-ready Weekly Briefs.
 
 ## Consulting-Kontext Mario
 
@@ -65,6 +66,10 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - Marios aktueller Kundenrhythmus besteht aus zwei Calls: einem Accountability Call fuer Zahlen, Daten, Roadmap, Projektmanagement und Wochenplan sowie einem Advisory Call fuer Deep Dives und strategische Fragen. Diese Trennung wird als sinnvoll bewertet.
 - Ein AI-first internes Delivery-System soll vor allem Analyse, Status-Synthese, Roadmap-Abgleich, Hypothesen-Review und Wochenplan-Erstellung vorbereiten. Mario bleibt fuer Urteilskraft, Priorisierung, Challenging und Entscheidungen verantwortlich.
 - Arbeitsthese fuer das interne Delivery-System: AI prepares, Mario judges.
+- Technische Arbeitsthese: Kundendaten sollten nicht als grosse Rohdatenmengen direkt an AI gegeben werden. Stattdessen braucht es pro Kunde KPI Definitions, Raw/Staging Data, ein relationales Core Model, Weekly Snapshot Tables und AI-ready Briefing Tables.
+- Sheets koennen kurzfristig als Staging- und Review-Layer dienen, sollten aber nicht das langfristige System of Record sein. Fuer Historie, Relationen und Kostenkontrolle ist mittelfristig ein kleines Warehouse wie BigQuery oder alternativ Postgres sinnvoller.
+- HubSpot-/CRM-Relationen sollten ueber Association Tables modelliert werden, nicht nur als flache Exporte, damit Deals, Contacts, Companies und Labels korrekt interpretiert werden.
+- Tokenkosten werden reduziert, indem AI nur KPI Definitions, Weekly Snapshots, Impact Contracts, Roadmap-Kontext und gespeicherte Briefings liest, nicht komplette Rohdatenexporte.
 
 ## Offene Fragen
 
