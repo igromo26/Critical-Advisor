@@ -39,6 +39,7 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - `Consulting/Internal-AI-Enhanced-Delivery-System.md` dokumentiert Marios internes AI-unterstuetztes Delivery-System mit Weekly Delivery Loop, Accountability Call, Advisory Call, Kundencockpit und internen AI-Agenten/Prompts.
 - `Consulting/Client-Data-Architecture-for-AI-Delivery.md` dokumentiert eine technische Datenarchitektur fuer kundenspezifische KPI-Definitionen, Historie, CRM-Relationen, Tokenkosten und AI-ready Weekly Briefs.
 - `Consulting/Weekly-Preparation-Time-Model.md` dokumentiert ein Zeitmodell fuer die woechentliche Kundenvorbereitung und bewertet, wann 45 Minuten Vorbereitung pro Kunde realistisch sind.
+- `Consulting/Client-Owned-Weekly-Reporting-Model.md` dokumentiert ein schlankes Client-Owned Reporting Modell, bei dem der Kunde woechentlich die wichtigsten KPIs pflegt und Mario nur verdichtete Daten, Impact Contracts und Entscheidungen analysiert.
 
 ## Consulting-Kontext Mario
 
@@ -74,6 +75,9 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - Ziel fuer laufende Mandate: Zwei 45-minuetige Calls pro Kunde pro Woche plus maximal 45 Minuten Vorbereitung. Arbeitsthese: Das ist erst ab einem stabilen Running System realistisch, typischerweise ab Woche 8 bis 12, nicht in Onboarding und Diagnose.
 - Zeitmodell: Onboarding/Diagnose ca. 3 bis 6 Stunden pro Woche, Stabilisierung ca. 90 bis 150 Minuten, Running System ca. 30 bis 45 Minuten Vorbereitung pro Woche.
 - Wenn die Vorbereitung dauerhaft mehr als 45 Minuten braucht, ist das ein Signal fuer ein Problem im Datenmodell, in KPI Definitions, Kundendisziplin, Scope, Weekly Briefing oder in Marios Rollenabgrenzung.
+- Neue Arbeitsthese zur Datenpraxis: Fuer den Start ist ein Client-Owned Weekly Reporting Sheet wahrscheinlich smarter als sofort ein schwerer Tech-Stack. Der Kunde liefert den Standard-KPI-Snapshot, Mario bewertet Wirkung, Prioritaeten und Entscheidungen.
+- Granularitaetsregel: 80% der woechentlichen Analyse sollten auf Executive Snapshot und Impact Contract Ebene passieren, 20% maximal im Diagnostic Layer. Raw Detail nur bei Abweichung, konkreter Hypothese, Datenqualitaetsverdacht oder relevanter Entscheidung.
+- Standardisiere die Reporting-Struktur, nicht die KPI-Liste. Jeder Kunde hat eigene KPIs, aber dieselbe Logik: KPI Definition, Weekly Snapshot, Impact Contract Bezug, Owner Kommentar und Entscheidung.
 
 ## Offene Fragen
 
