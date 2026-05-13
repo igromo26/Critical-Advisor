@@ -36,6 +36,7 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - `Consulting/AI-Consulting-Market-Perspective.md` dokumentiert eine erste kritische Perspektive auf den Unternehmensberatungsmarkt im AI-Zeitalter und Marios moegliche Positionierung.
 - `Consulting/AI-Delivery-System.md` dokumentiert eine erste Arbeitsfassung fuer ein AI-first Delivery-System und die Positionierungsfrage Marketing-Wedge vs. breites Revenue Impact Advisory.
 - `Consulting/Revenue-Marketing-Advisory-Delivery-Boundaries.md` dokumentiert die Delivery-Grenzen fuer Revenue Marketing Advisory: Advisor vs. Strategist, Capability Bridge, Co-Build statt Dauerbetrieb und Impact Contracts fuer Revenue-Hebel.
+- `Consulting/Internal-AI-Enhanced-Delivery-System.md` dokumentiert Marios internes AI-unterstuetztes Delivery-System mit Weekly Delivery Loop, Accountability Call, Advisory Call, Kundencockpit und internen AI-Agenten/Prompts.
 
 ## Consulting-Kontext Mario
 
@@ -61,6 +62,9 @@ Diese Datei ist das laufende Arbeitsgedaechtnis des Projekts. Sie ist kein Trans
 - Die zentrale Delivery-Grenze: Mario darf Advisor, Architect, Co-Builder, Enabler und Quality Gate sein, aber nicht dauerhafter Operator fuer Marketing- und Tool-Aufgaben.
 - Bei Kunden mit Technologie- und AI-Skill-Gaps braucht es einen expliziten Capability Bridge: Skill Gap Assessment, Workflow Prototype, Guided Build Sessions, Owner Certification, Quality Gates und klare Handover-Kriterien.
 - Jeder priorisierte Revenue-Hebel braucht einen Impact Contract mit Problem, Hypothese, Zielmetrik, Baseline, Zielwert, Zeithorizont, Owner, Risiken und Stop-Kriterium.
+- Marios aktueller Kundenrhythmus besteht aus zwei Calls: einem Accountability Call fuer Zahlen, Daten, Roadmap, Projektmanagement und Wochenplan sowie einem Advisory Call fuer Deep Dives und strategische Fragen. Diese Trennung wird als sinnvoll bewertet.
+- Ein AI-first internes Delivery-System soll vor allem Analyse, Status-Synthese, Roadmap-Abgleich, Hypothesen-Review und Wochenplan-Erstellung vorbereiten. Mario bleibt fuer Urteilskraft, Priorisierung, Challenging und Entscheidungen verantwortlich.
+- Arbeitsthese fuer das interne Delivery-System: AI prepares, Mario judges.
 
 ## Offene Fragen
 
